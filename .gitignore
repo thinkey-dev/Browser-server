@@ -1,0 +1,28 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Go template
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+# Test binary, build with `go test -c`
+*.test
+*.bin
+views
+.views
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+*.log
+
+# 将删除 .idea/vcs.xml
+# 将删除 .idea/GrepConsole.xml
+.idea
+publish/
+logs
+*.xls
+pub.docker
+将删除 logs/
+将删除 pub.docker
+

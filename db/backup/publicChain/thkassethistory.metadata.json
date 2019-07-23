@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"publicChain.thkassethistory"},{"v":2,"unique":true,"key":{"chainid":1,"address":1,"date":-1},"name":"chainid_1_address_1_date_-1","ns":"publicChain.thkassethistory"}],"uuid":"e6868dfdecba45a79751ff331d877620"}

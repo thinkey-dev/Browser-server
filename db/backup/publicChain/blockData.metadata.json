@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"publicChain.blockData"},{"v":2,"key":{"timestamp":1},"name":"timestamp","ns":"publicChain.blockData"},{"v":2,"unique":true,"key":{"height":1,"chainid":1},"name":"height_chainid","ns":"publicChain.blockData"}],"uuid":"00d9e9c1cc3b4da5bbe1e14af147595e"}
