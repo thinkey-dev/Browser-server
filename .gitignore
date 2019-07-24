@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Go template
+=======
+>>>>>>> origin_github/master
 # Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
+<<<<<<< HEAD
 # Test binary, build with `go test -c`
 *.test
 *.bin
@@ -26,3 +30,11 @@ pub.docker
 将删除 logs/
 将删除 pub.docker
 
+=======
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+>>>>>>> origin_github/master
